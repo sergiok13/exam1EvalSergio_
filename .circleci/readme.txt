@@ -1,1 +1,0 @@
-Sergio Torromé Alonso
