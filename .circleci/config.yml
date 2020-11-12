@@ -9,9 +9,9 @@ jobs:
       
       - run:
           name: Compilar el sitio
-          command: bundle exec jekyll build
+          command: echo hola
           
       - run:
           name: Imprime la fecha actual
-          command: date
+          command: echo fecha
 
